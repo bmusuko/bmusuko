@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Bram's github stats](https://github-readme-stats.vercel.app/api?username=bmusuko&show_icons=true&theme=tokyonight)
+<br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h43nefobtosoaq7mrcdjssq&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **bmusuko/bmusuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
