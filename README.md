@@ -1,6 +1,8 @@
 ### Hi there, I'm [Bram Musuko Panjaitan](https://bmusuko.ninja) 👋
-- 🔭 I’m currently working in GDP Labs
-- 🌱 I’m currently learning React JS, Typescript
+- 🔭 I’m currently looking for a part time job
+- 🌱 I’m currently learning Next JS
+- 📫 How to reach me: You can send me an email at bram.musuko@gmail.com
+- ⚡ Fun fact: I'm probably watching anime rn
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmusuko&show_icons=true&theme=tokyonight" />
@@ -14,10 +16,7 @@
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
