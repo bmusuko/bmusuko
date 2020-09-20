@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Next JS
 - 📫 How to reach me: You can send me an email at bram.musuko@gmail.com
 <br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bmusuko" alt="bmusuko" /> </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmusuko&show_icons=true&theme=tokyonight" />
 </p>
