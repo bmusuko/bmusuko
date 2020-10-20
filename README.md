@@ -1,7 +1,6 @@
 ### Hi there, I'm [Bram Musuko Panjaitan](https://bmusuko.ninja) 👋
-- 🔭 I’m currently looking for a part time job
-- 🌱 I’m currently learning Next JS
-- 📫 How to reach me: You can send me an email at bram.musuko@gmail.com
+- 🔭 I’m currently working on OY! as Backend Engineer Intern
+- 📫 You can send me an email at bram.musuko@gmail.com or hmu on twitter @bmusuko
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmusuko" alt="bmusuko" /> </p>
 <p align="center">
