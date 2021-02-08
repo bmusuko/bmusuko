@@ -1,5 +1,5 @@
 ### Hi there, I'm [Bram Musuko Panjaitan](https://bmusuko.ninja) 👋
-- 🔭 I’m currently working on OY! as Backend Engineer Intern
+- 🔭 I’m currently working on Bahasa ai as Software Engineer (Part Time)
 - 📫 You can send me an email at bram.musuko@gmail.com or hmu on twitter @bmusuko
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmusuko" alt="bmusuko" /> </p>
