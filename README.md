@@ -1,5 +1,5 @@
 ### Hi there, I'm [Bram Musuko Panjaitan](https://bmusuko.ninja) 👋
-- 🔭 I’m currently working on Jobkred as Software Engineer
+- 🔭 I’m currently working on TikTok as Software Engineer
 - 📫 You can send me an email at bram.musuko@gmail.com or hmu on twitter @bmusuko
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
