@@ -2,15 +2,12 @@
 - 🔭 I’m currently working on TikTok as Software Engineer
 - 📫 You can send me an email at bram.musuko@gmail.com or hmu on twitter @bmusuko
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=bmusuko1)](https://holopin.io/@bmusuko1)
 
 
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bmusuko&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=21h43nefobtosoaq7mrcdjssq&cover_image=true" />
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bmusuko" alt="bmusuko" /> </p>
 
